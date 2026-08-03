@@ -61,9 +61,3 @@ The integrated system demonstrated an overall prediction accuracy ranging from *
 - Object localization using bounding boxes
 
 ---
-
-## Author
-
-**Shahad Almazrouei**  
-B.Sc. Computer Science (Artificial Intelligence)  
-Khalifa University
